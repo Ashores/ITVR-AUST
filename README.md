@@ -17,7 +17,7 @@
 
 | Model | Paper | Venue | Year | Code | User |
 | :---: | :---: | :---: | :--: | :--: | :--: |
-|       |       |       |      |      |      |
+| MB-STR  | [Multi-Behavior Sequential Transformer Recommender](https://dl.acm.org/doi/10.1145/3477495.3532023)      |   SIGIR    | 2022     | [Python](https://github.com/yuanenming/mb-str?tab=Apache-2.0-1-ov-file)     |    王露薇  |
 |       |       |       |      |      |      |
 |       |       |       |      |      |      |
 |       |       |       |      |      |      |
