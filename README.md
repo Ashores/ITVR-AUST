@@ -11,7 +11,7 @@
 |    MCF    |  [MCF: Mutual Correction Framework for Semi-Supervised Medical Image Segmentation](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_MCF_Mutual_Correction_Framework_for_Semi-Supervised_Medical_Image_Segmentation_CVPR_2023_paper.html?ref=https://githubhelp.com)    | CVPR       |2023      | [Python](https://github.com/WYC-321/MCF)  |刘宇涵|
 |  UIU-Net  |   [UIU-Net: U-Net in U-Net for Infrared Small Object Detection](https://ieeexplore.ieee.org/document/9989433)  | IEEE Transactions on Image Processing      |  2023    |[python](https://github.com/danfenghong/IEEE_TIP_UIU-Net.git)     | 孙梦伟     |
 | Faster rcnn | [Small Object Detection via Coarse-to-fine Proposal Generationand Imitation Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Yuan_Small_Object_Detection_via_Coarse-to-fine_Proposal_Generation_and_Imitation_Learning_ICCV_2023_paper.pdf) | ICCV | 2023 | [python](https://github.com/shaunyuan22/CFINet) | 曹徐 |
-|   Swin-Unet    |    [Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation](https://arxiv.org/pdf/2105.05537)   | CVPR      |    2022  |    [python](https://github.com/HuCaoFighting/Swin-Unet)  |    周沁坤  |
+|   Swin-Unet    |    [Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation](https://arxiv.org/pdf/2105.05537)   | ECCV     |    2022  |    [python](https://github.com/HuCaoFighting/Swin-Unet)  |    周沁坤  |
 |       |       |       |      |      |      |
 
 
