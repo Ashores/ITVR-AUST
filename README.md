@@ -16,7 +16,7 @@
 
 |  姓名  |                          github网址                          |
 | :----: | :----------------------------------------------------------: |
-|  曹徐  | [caoxu12345/GroupRepor](https://github.com/caoxu12345/GroupReport)             |
+|  曹徐  | [caoxu12345/GroupReport](https://github.com/caoxu12345/GroupReport)             |
 | 刘宇涵 |                                                              |
 |  钱雄  |     [Qian-Xiong/Paper-record](https://github.com/Qian-Xiong/Paper-record)|
 | 孙志勇 |                                                              |
