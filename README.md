@@ -18,7 +18,7 @@
 | :----: | :----------------------------------------------------------: |
 |  曹徐  |                                                              |
 | 刘宇涵 |                                                              |
-|  钱雄  |                                                              |
+|  钱雄  |     [Qian-Xiong/Paper-record](https://github.com/Qian-Xiong/Paper-record)|
 | 孙志勇 |                                                              |
 |  吴京  |                                                              |
 | 王露微 | [2023201123/luwei (github.com)](https://github.com/2023201123/luwei) |
