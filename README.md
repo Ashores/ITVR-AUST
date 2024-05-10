@@ -25,7 +25,7 @@
 | 王一航 |                                                              |
 |  殷伟  |                                                              |
 | 周沁坤 |                                                              |
-| 孙梦伟 |                                                              |
+| 孙梦伟 | [2389050027/Object-detection](https://github.com/2389050027/Object-detection/tree/main) |
 
 
 
