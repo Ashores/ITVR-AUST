@@ -24,7 +24,7 @@
 | 王露微 | [2023201123/luwei (github.com)](https://github.com/2023201123/luwei) |
 | 王一航 |                                                              |
 |  殷伟  |                                                              |
-| 周沁坤 |          [2023201112]（https://github.com/betray0427/AKAkunkun）                                                    |
+| 周沁坤 |          https://github.com/betray0427/AKAkunkun                                                    |
 | 孙梦伟 | [2389050027/Object-detection](https://github.com/2389050027/Object-detection/tree/main) |
 
 
