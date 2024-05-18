@@ -45,7 +45,7 @@
 |  潘宇  |            |
 |  杨静  |            |
 |  张雪  |            |
-| 汪佳伟 |            |
+| 汪佳伟 |   https://github.com/pub13/Paper?tab=readme-ov-file         |
 ### 2021级
 
 | 姓名 | github网址 |
