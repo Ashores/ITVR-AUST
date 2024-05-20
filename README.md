@@ -22,7 +22,7 @@
 | 孙志勇 | [szy/Paper-record](https://github.com/20001218/Paper-record) |
 |  吴京  |                                                              |
 | 王露微 | [2023201123/luwei (github.com)](https://github.com/2023201123/luwei) |
-| 王一航 |                                                              |
+| 王一航 | https://github.com/bkpagen/Paper-record                              |
 |  殷伟  |                                                              |
 | 周沁坤 |          [zqk/Paper-record](https://github.com/betray0427/AKAkunkun)                                                    |
 | 孙梦伟 | [2389050027/Object-detection](https://github.com/2389050027/Object-detection/tree/main) |
