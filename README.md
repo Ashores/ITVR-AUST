@@ -20,7 +20,7 @@
 | 刘宇涵 |  [llyuhan/Paper-record](https://github.com/llyuhan/Paper-record)|
 |  钱雄  |     [Qian-Xiong/Paper-record](https://github.com/Qian-Xiong/Paper-record)|
 | 孙志勇 | [szy/Paper-record](https://github.com/20001218/Paper-record) |
-|  吴京  |                                                              |
+|  吴京  |  https://github.com/adventure31t/jingwu                      |
 | 王露微 | [2023201123/luwei (github.com)](https://github.com/2023201123/luwei) |
 | 王一航 | https://github.com/bkpagen/Paper-record                              |
 |  殷伟  |                                                              |
