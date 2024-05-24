@@ -23,7 +23,7 @@
 |  吴京  |  https://github.com/adventure31t/jingwu                      |
 | 王露微 | [2023201123/luwei (github.com)](https://github.com/2023201123/luwei) |
 | 王一航 | https://github.com/bkpagen/Paper-record                              |
-|  殷伟  |                                                              |
+|  殷伟  | https://github.com/yinwei12345/Paper-record                          |
 | 周沁坤 |          [zqk/Paper-record](https://github.com/betray0427/AKAkunkun)                                                    |
 | 孙梦伟 | [2389050027/Object-detection](https://github.com/2389050027/Object-detection/tree/main) |
 
