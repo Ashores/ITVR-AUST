@@ -36,7 +36,7 @@
 | 党安培 |            |
 | 吕自强 |            |
 |  邓彬  |            |
-| 刘伟东 |            |
+| 刘伟东 | https://github.com/TheLiuCoder/Rick_Sanchez |
 | 李云豪 |            |
 | 王双凤 |            |
 | 孙孜博 |            |
