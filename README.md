@@ -34,7 +34,7 @@
 |  姓名  | github网址 |
 | :----: | :--------: |
 | 党安培 |https://github.com/DAP52113/PaperRecord|
-| 吕自强 |            |
+| 吕自强 |https://github.com/ziqianglv/PaperRecord|
 |  邓彬  |            |
 | 刘伟东 | https://github.com/TheLiuCoder/Rick_Sanchez |
 | 李云豪 |            |
@@ -42,7 +42,7 @@
 | 孙孜博 |            |
 |  吴劲  |            |
 |  童波  |            |
-|  潘宇  |https://github.com/ziqianglv/PaperRecord|
+|  潘宇  |            |
 |  杨静  |            |
 |  张雪  |            |
 | 汪佳伟 |   https://github.com/pub13/Paper?tab=readme-ov-file         |
