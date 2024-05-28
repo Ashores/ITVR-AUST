@@ -37,7 +37,7 @@
 | 吕自强 |https://github.com/ziqianglv/PaperRecord|
 |  邓彬  |            |
 | 刘伟东 | https://github.com/TheLiuCoder/Rick_Sanchez |
-| 李云豪 |            |
+| 李云豪 |https://github.com/USAKiller/paperrecord|
 | 王双凤 |https://github.com/wangsf12138/12138/tree/main|
 | 孙孜博 |https://github.com/Sun520-gift/PaperRecord|
 |  吴劲  |https://github.com/WujingQAQ/PaperRecord|
