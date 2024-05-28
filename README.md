@@ -24,7 +24,7 @@
 | 王露微 | [2023201123/luwei (github.com)](https://github.com/2023201123/luwei) |
 | 王一航 | https://github.com/bkpagen/Paper-record                              |
 |  殷伟  | https://github.com/yinwei12345/Paper-record                          |
-| 周沁坤 |          [zqk/Paper-record](https://github.com/betray0427/AKAkunkun)                                                    |
+| 周沁坤 |          [zqk/Paper-record](https://github.com/betray0427/AKAkunkun) |
 | 孙梦伟 | [2389050027/Object-detection](https://github.com/2389050027/Object-detection/tree/main) |
 
 
@@ -42,7 +42,7 @@
 | 孙孜博 |            |
 |  吴劲  |            |
 |  童波  |            |
-|  潘宇  |            |
+|  潘宇  |https://github.com/ziqianglv/PaperRecord|
 |  杨静  |            |
 |  张雪  |            |
 | 汪佳伟 |   https://github.com/pub13/Paper?tab=readme-ov-file         |
