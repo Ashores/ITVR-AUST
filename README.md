@@ -33,7 +33,7 @@
 
 |  姓名  | github网址 |
 | :----: | :--------: |
-| 党安培 |            |
+| 党安培 |https://github.com/DAP52113/PaperRecord|
 | 吕自强 |            |
 |  邓彬  |            |
 | 刘伟东 | https://github.com/TheLiuCoder/Rick_Sanchez |
