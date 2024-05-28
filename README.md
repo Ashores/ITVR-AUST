@@ -44,7 +44,7 @@
 |  童波  |            |
 |  潘宇  |https://github.com/1lapy/paper_record|
 |  杨静  |            |
-|  张雪  |            |
+|  张雪  |https://github.com/zhang9902/paper-record|
 | 汪佳伟 |   https://github.com/pub13/Paper?tab=readme-ov-file         |
 ### 2021级
 
