@@ -39,7 +39,7 @@
 | 刘伟东 | https://github.com/TheLiuCoder/Rick_Sanchez |
 | 李云豪 |            |
 | 王双凤 |https://github.com/wangsf12138/12138/tree/main|
-| 孙孜博 |            |
+| 孙孜博 |https://github.com/Sun520-gift/PaperRecord|
 |  吴劲  |            |
 |  童波  |            |
 |  潘宇  |            |
