@@ -40,7 +40,7 @@
 | 李云豪 |            |
 | 王双凤 |https://github.com/wangsf12138/12138/tree/main|
 | 孙孜博 |https://github.com/Sun520-gift/PaperRecord|
-|  吴劲  |            |
+|  吴劲  |https://github.com/WujingQAQ/PaperRecord|
 |  童波  |            |
 |  潘宇  |            |
 |  杨静  |            |
