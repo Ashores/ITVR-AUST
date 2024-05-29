@@ -43,7 +43,7 @@
 |  吴劲  |https://github.com/WujingQAQ/PaperRecord|
 |  童波  |            |
 |  潘宇  |https://github.com/1lapy/paper_record|
-|  杨静  |            |
+|  杨静  |https://github.com/yangjing21/paper_record|
 |  张雪  |https://github.com/zhang9902/paper-record|
 | 汪佳伟 |   https://github.com/pub13/Paper?tab=readme-ov-file         |
 ### 2021级
