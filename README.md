@@ -16,6 +16,24 @@
 
 |  姓名  |                          github网址                          |
 | :----: | :----------------------------------------------------------: |
+| 耿雪涵 |                                                           |
+| 陆世纪 |                                                           |
+| 冯学栋 |                                                           |
+| 郑金川 |                                                            |
+|  陈宏  |                                                             |
+| 李子豪 |                                                           |
+| 孟凡楷 |                                                                |
+| 余治远 |                                                                      |
+|  章磊  |                                                                      |
+|  曹健  |                                                                      |
+|  刘婷  |                                                                      |
+| 夏佳丽 |                                                                      |
+
+
+### 2023级
+
+|  姓名  |                          github网址                          |
+| :----: | :----------------------------------------------------------: |
 |  曹徐  | [caoxu12345/GroupReport](https://github.com/caoxu12345/GroupReport)             |
 | 刘宇涵 |  [llyuhan/Paper-record](https://github.com/llyuhan/Paper-record)|
 |  钱雄  |     [Qian-Xiong/Paper-record](https://github.com/Qian-Xiong/Paper-record)|
