@@ -7,6 +7,8 @@
 | 姓名 |                          github网址                          |
 | :--: | :----------------------------------------------------------: |
 | 吴涛 | [Ashores/Paper-record (github.com)](https://github.com/Ashores/Paper-record) |
+|  吴劲  |https://github.com/WujingQAQ/PaperRecord|
+|  邓彬  |            |
 
 
 
@@ -55,12 +57,10 @@
 | :----: | :--------: |
 | 党安培 |https://github.com/DAP52113/PaperRecord|
 | 吕自强 |https://github.com/ziqianglv/PaperRecord|
-|  邓彬  |            |
 | 刘伟东 | https://github.com/TheLiuCoder/Rick_Sanchez |
 | 李云豪 |https://github.com/USAKiller/paperrecord|
 | 王双凤 |https://github.com/wangsf12138/12138/tree/main|
 | 孙孜博 |https://github.com/Sun520-gift/PaperRecord|
-|  吴劲  |https://github.com/WujingQAQ/PaperRecord|
 |  童波  |            |
 |  潘宇  |https://github.com/1lapy/paper_record|
 |  杨静  |https://github.com/yangjing21/paper_record|
