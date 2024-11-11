@@ -18,7 +18,7 @@
 
 |  姓名  |                          github网址                          |
 | :----: | :----------------------------------------------------------: |
-| 耿雪涵 |                                                           |
+| 耿雪涵 |  https://github.com/xing-GG/Paper-recode                     |
 | 陆世纪 |                                                           |
 | 冯学栋 |  https://github.com/fxd-code/Paper-record                  |
 | 郑金川 |  [Wztyi/PaperRecord](https://github.com/Wztyi/PaperRecord) |
