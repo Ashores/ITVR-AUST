@@ -25,7 +25,7 @@
 |  陈宏  |                                                             |
 | 李子豪 |                                                           |
 | 孟凡楷 |                                                                |
-| 余治远 |                                                                      |
+| 余治远 |  https://github.com/Eleven-Yzy/Paper-recode                          |
 |  章磊  |                                                                      |
 |  曹健  |                                                                      |
 |  刘婷  |                                                                      |
