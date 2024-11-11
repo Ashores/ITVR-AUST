@@ -20,7 +20,7 @@
 | :----: | :----------------------------------------------------------: |
 | 耿雪涵 |                                                           |
 | 陆世纪 |                                                           |
-| 冯学栋 |                                                           |
+| 冯学栋 |  https://github.com/fxd-code/Paper-record                  |
 | 郑金川 |  [Wztyi/PaperRecord](https://github.com/Wztyi/PaperRecord) |
 |  陈宏  |                                                             |
 | 李子豪 |                                                           |
