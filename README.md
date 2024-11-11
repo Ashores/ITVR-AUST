@@ -21,10 +21,10 @@
 | 耿雪涵 |                                                           |
 | 陆世纪 |                                                           |
 | 冯学栋 |                                                           |
-| 郑金川 |                                                            |
+| 郑金川 |  [Wztyi/PaperRecord](https://github.com/Wztyi/PaperRecord) |
 |  陈宏  |                                                             |
 | 李子豪 |                                                           |
-| 孟凡楷 |                                                                |
+| 孟凡楷 |  https://github.com/Meng206/Paper-record                   |
 | 余治远 |  https://github.com/Eleven-Yzy/Paper-recode                          |
 |  章磊  |                                                                      |
 |  曹健  |                                                                      |
