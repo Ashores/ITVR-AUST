@@ -12,7 +12,7 @@
 
 ## 硕士研究生
 
-### 2023级
+### 2024级
 
 |  姓名  |                          github网址                          |
 | :----: | :----------------------------------------------------------: |
@@ -44,7 +44,9 @@
 |  殷伟  | https://github.com/yinwei12345/Paper-record                          |
 | 周沁坤 |          [zqk/Paper-record](https://github.com/betray0427/AKAkunkun) |
 | 孙梦伟 | [2389050027/Object-detection](https://github.com/2389050027/Object-detection/tree/main) |
-
+| 王志忠 |  |
+| 任青荣 |  |
+| 禹远航 |  |
 
 
 ### 2022级
