@@ -22,7 +22,7 @@
 | 陆世纪 |  https://github.com/Century-lu/Paper-record                |
 | 冯学栋 |  https://github.com/fxd-code/Paper-record                  |
 | 郑金川 |  [Wztyi/PaperRecord](https://github.com/Wztyi/PaperRecord) |
-|  陈宏  |                                                             |
+|  陈宏  |  https://github.com/tomcat-dog-pig/paper-reading           |
 | 李子豪 |                                                           |
 | 孟凡楷 |  https://github.com/Meng206/Paper-record                   |
 | 余治远 |  https://github.com/Eleven-Yzy/Paper-recode                          |
