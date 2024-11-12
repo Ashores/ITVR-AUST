@@ -28,7 +28,7 @@
 | 余治远 |  https://github.com/Eleven-Yzy/Paper-recode                          |
 |  章磊  |                                                                      |
 |  曹健  |                                                                      |
-|  刘婷  |                                                                      |
+|  刘婷  |  https://github.com/staratmoon/Paper-recode                |
 | 夏佳丽 |                                                                      |
 
 
