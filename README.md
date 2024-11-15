@@ -27,7 +27,7 @@
 | 孟凡楷 |  https://github.com/Meng206/Paper-record                   |
 | 余治远 |  https://github.com/Eleven-Yzy/Paper-recode                          |
 |  章磊  |                                                                      |
-|  曹健  |                                                                      |
+|  曹健  |  https://github.com/akoasmer/Paper-record                  |
 |  刘婷  |  https://github.com/staratmoon/Paper-recode                |
 | 夏佳丽 |                                                                      |
 
