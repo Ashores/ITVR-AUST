@@ -23,13 +23,13 @@
 | 冯学栋 |  https://github.com/fxd-code/Paper-record                  |
 | 郑金川 |  [Wztyi/PaperRecord](https://github.com/Wztyi/PaperRecord) |
 |  陈宏  |  https://github.com/tomcat-dog-pig/paper-reading           |
-| 李子豪 |                                                           |
+| 李子豪 |  https://github.com/ll1zh/PaperRecord       |
 | 孟凡楷 |  https://github.com/Meng206/Paper-record                   |
 | 余治远 |  https://github.com/Eleven-Yzy/Paper-recode                          |
 |  章磊  |  https://github.com/DongXi666-maxzl/PaperRecord            |
 |  曹健  |  https://github.com/akoasmer/Paper-record                  |
 |  刘婷  |  https://github.com/staratmoon/Paper-recode                |
-| 夏佳丽 |                                                                      |
+| 夏佳丽 |  https://github.com/XJL301/PaperRecord                                                                   |
 
 
 ### 2023级
